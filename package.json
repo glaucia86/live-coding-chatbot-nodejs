@@ -1,0 +1,31 @@
+{
+  "name": "live-coding-chatbot-nodejs",
+  "version": "1.0.0",
+  "description": "Repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/glaucia86/live-coding-chatbot-nodejs.git"
+  },
+  "keywords": [
+    "botbuilder",
+    "chatbots",
+    "bot-framework",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/glaucia86/live-coding-chatbot-nodejs/issues"
+  },
+  "homepage": "https://github.com/glaucia86/live-coding-chatbot-nodejs#readme",
+  "dependencies": {
+    "botbuilder": "^3.14.0",
+    "dotenv-extended": "^2.3.0",
+    "moment": "^2.24.0",
+    "restify": "^6.3.4"
+  }
+}

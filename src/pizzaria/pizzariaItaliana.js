@@ -57,7 +57,7 @@ intents.matches('Pedir', [
         }
 
         if (!match) {
-            builder.Prompts.choice(session, 'No momento só temos essas pizzas disponíveis! Qual que você gostaria de pedir?', pizza);
+            builder.Prompts.choice(session, 'No momento só temos essas pizzas disponíveis! Qual que você gostaria de pedir?', pizzas);
         } else {
             next({ response: match });
         }
