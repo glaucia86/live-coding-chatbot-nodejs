@@ -1,11 +1,8 @@
 {
   "name": "live-coding-chatbot-nodejs",
   "version": "1.0.0",
-  "description": "Repo",
+  "description": "Repositório responsável pelo desenvolvimento do ChatBot da PizzariaDemais.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/glaucia86/live-coding-chatbot-nodejs.git"
