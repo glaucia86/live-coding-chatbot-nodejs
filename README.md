@@ -63,7 +63,7 @@ Seguindo todos esses passos, vocês estarão prontos para instalar as depedênci
 
 ## Dúvidas?! :triangular_flag_on_post:
 
-Se tiverem alguma dúvida referente ao código feito ou para configurar o ambiente bastam criar uma Issue aqui no GitHub que estarei respondendo a vocês!! :heart: :heart: :heart: :blush:
+Se tiverem alguma dúvida referente ao código feito ou para configurar o ambiente de desenvolvimento bastam criar uma **[ISSUE AQUI](https://github.com/glaucia86/live-coding-chatbot-nodejs/issues)** no GitHub que estarei respondendo a vocês!! :heart: :heart: :heart: :blush:
 
 <p align="center">
     <img src="https://i.imgur.com/dLSzYDT.gif"/>  
